@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yogeeshwar P
-- 👀 I’m interested in python
-- 🌱 I’m currently learning 3rd year ISE
+- 👀 I’m interested in python,Java,C++
+- 🌱 I’m currently learning in 
+4th year ISE
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me Yogeeshwar
 
